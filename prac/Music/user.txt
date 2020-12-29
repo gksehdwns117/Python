@@ -1,0 +1,4 @@
+관리자	root	1807	남
+한동준	gksehdwns117	1234	남
+박선정	sj1807	1807	여
+한동준	gksehdwns117	python -u "c:\Users\준\Desktop\dongjoon\파이썬\Music\연습.py"	python -u "c:\Users\준\Desktop\dongjoon\파이썬\Music\연습.py"
